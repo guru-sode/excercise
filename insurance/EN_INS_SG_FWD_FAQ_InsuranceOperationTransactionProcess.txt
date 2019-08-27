@@ -1,0 +1,56 @@
+#short description
+topic=insurance_operation
+subtopc=transaction_process
+prefix=EBI
+[questions]
+
+[faq:CAI_123]
+Question=how can i buy cancer insurance
+what are the ways to buy cancer insurance
+what is the procedure to buy cancer plan
+what is the process to buy cancer insurance
+how should i buy cancer insurance
+how would i be able to buy cancer insurance
+how will i buy cancer insurance
+how could i buy cancer insurance
+what are the methods to buy cancer insurance
+what is the method to buy cancer plan
+i want to buy cancer insurance , how can i do it
+how may i purchase cancer insurance
+how would i buy cancer insurance
+how will i purchase cancer insurance
+#BasePhrase=CAI: How To Buy
+Answer=It's really easy! Click https://www.fwd.com.sg/cancer-insurance/online-quote/quickQuestions and you'll get a quote instantly just by answering a few questions
+
+[faq:CAI_120]
+Question=how much is your cancer insurance
+how much do you charge for cancer insurance
+what is your price for cancer insurance
+what is the price for cancer insurance
+how much will your cancer insurance cost
+how much does your cancer insurance cost
+what is the cost of your cancer insurance
+#BasePhrase=CAI: How Much charge
+Answer=It depends on your preferred coverage \n\nPlease click www.fwd.com.sg/cancer-insurance/online-quote/quickQuestions to get a quote
+
+[faq:CAI_119]
+Question=what should i do in case , i would like to change my coverage amount for my cancer insurance
+what to do if i may like to change my coverage amount for my cancer insurance
+what steps to follow if i would like to change my coverage amount for my cancer insurance
+how to proceed if i would like to change my coverage amount for my cancer insurance
+how to move ahead if i would like to change my coverage amount for my cancer insurance
+what should be done if i would like to change my coverage amount for my cancer insurance
+what shall i do if i would like to change my coverage amount for my cancer insurance
+#BasePhrase=CAI: How Amend Coverage
+Answer=The coverage amount of your Cancer plan cannot be changed once the policy is effective. If you wish to increase the protection amount, you may purchase a new policy https://www.fwd.com.sg/cancer-insurance/online-quote/quickQuestions
+
+[faq:CAI_118]
+Question=can i choose to not have my premium automatically deducted from my account
+would i be able to choose to not have my premium automatically deducted from my account
+will i be able to choose to not have my premium automatically deducted from my account
+am i able to choose to not have my premium automatically deducted from my account
+will it be possible to choose to not have my premium automatically deducted from my account
+could it be possible to choose to not have my premium automatically deducted from my account
+is it possible to choose to not have my premium automatically deducted from my account
+#BasePhrase=CAI: No Automatic Deduction
+Answer=In order to ensure customers remain covered by the Cancer policy continuously, we currently offer only recurring payments. We don't offer manual payment options
